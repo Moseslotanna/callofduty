@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268218173636",
+    "project_id": "call-of-duty89",
+    "storage_bucket": "call-of-duty89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268218173636:android:e930e82b770addc79da191",
+        "android_client_info": {
+          "package_name": "com.example.callofduty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268218173636-4cn88amb1dm4hub98o9dduf4svbqlriq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhdIDyo_lVAQaZP9G7EJi4JkMVsmX0tyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268218173636-4cn88amb1dm4hub98o9dduf4svbqlriq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
